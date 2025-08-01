@@ -4,7 +4,7 @@
 using namespace std;
 int main() {
     // Write C++ code here
-    cout <<endl<<" this is git file first commit"<<endl;
+    cout <<endl<<" this is git file second commit"<<endl;
 
 
     return 0;
